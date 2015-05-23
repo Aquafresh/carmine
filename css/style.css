@@ -867,24 +867,24 @@ a {
   margin: 0;
   margin-bottom: 30px;
 }
-.main-content h2 {
+.main-footer > .container > .main-content h2 {
   color: #fff;
   margin-bottom: 30px;
 }
-.main-content .about-site-text {
+.main-footer > .container > .main-content .about-site-text {
   border: none;
 }
-.main-content .about-site-text .img-wrap {
+.main-footer > .container > .main-content .about-site-text .img-wrap {
   border-color: #000;
   box-shadow: none;
   margin-left: 0;
 }
-.main-content .about-site-text p {
+.main-footer > .container > .main-content .about-site-text p {
   margin-bottom: 40px;
   color: #fff;
   line-height: 24px;
 }
-.main-footer .sidebar > h2 {
+.main-footer > .container > .sidebar > h2 {
   color: #fff;
   margin-bottom: 30px;
 }
