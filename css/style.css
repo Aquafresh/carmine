@@ -783,6 +783,8 @@ a {
 .video-scrin {
   margin-top: 10px;
   margin-bottom: 20px;
+  width: 100%;
+  height: 250px;
 }
 .video-block {
   border-bottom: 1px dashed #ececec;
